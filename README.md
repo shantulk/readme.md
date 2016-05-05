@@ -8,7 +8,7 @@ puppet apply apache.pp
 
 puppet apply mysql.pp
 
-3) tomcat instances  (Tried to attempt) but ran out of time due to server limitation and slow accesibility of server. No proper instruction on test weather to install the applications or just write a code implement this. 
+3) tomcat instances  
 
 
 
